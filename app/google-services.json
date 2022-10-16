@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "176925290891",
+    "project_id": "gdsc-compose-camp",
+    "storage_bucket": "gdsc-compose-camp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176925290891:android:67fce75a39293e5a46bf8e",
+        "android_client_info": {
+          "package_name": "com.example.collegeattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176925290891-9v5t0fnd3pa5e1l855ib85i80l4d2vci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVff1H_AR4GlYl3WBh954GcvVeXZwEgmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176925290891-9v5t0fnd3pa5e1l855ib85i80l4d2vci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176925290891:android:65dba82bd47fe08046bf8e",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176925290891-9v5t0fnd3pa5e1l855ib85i80l4d2vci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVff1H_AR4GlYl3WBh954GcvVeXZwEgmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176925290891-9v5t0fnd3pa5e1l855ib85i80l4d2vci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
